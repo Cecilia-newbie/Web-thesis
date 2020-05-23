@@ -8,8 +8,11 @@ This is the code that accompanies the **ReactJS Authentication Tutorial** on *Au
 
 ```bash
 
-# Get the project
+# Get the project (original projec link)
 git clone https://github.com/auth0-blog/reactjs-authentication-tutorial.git reactjs-authentication-tutorial
+
+# Our project:
+git clone https://github.com/Cecilia-newbie/Web-thesis
 
 # Change directory
 cd reactjs-authentication-tutorial
